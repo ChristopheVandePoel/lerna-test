@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "lodash": "^4.17.4"
+  },
+  "name": "package1",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
